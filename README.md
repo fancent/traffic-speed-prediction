@@ -15,7 +15,7 @@ The evaluation metric used is the mean-squared error. Lower error leads to a hig
 python 3.X
 ```
 ```
-pip install numpy, pandas, xgboost
+pip install numpy, pandas, xgboost, sklearn
 ```
 
 # Steps to reproduce
