@@ -1,6 +1,11 @@
 # traffic-speed-prediction
 Kaggle In class competition [link](https://www.kaggle.com/c/msbd5001-fall2020)
 
+# Final standings
+After removing duplicated teams:
+- Public Leaderboard: 8/191 -> 5th
+- Private Leaderboard: 12/191 -> 8th
+
 # Competition Description
 The dataset provides the average traffic speed per hour for a major road in Hong Kong from 2017 to 2018. Part of the dataset is provided as the training data, and your task is to predict the rest. 80% of the dataset is provided as the training data and 20% as the testing data, including the timestamp and the corresponding average speed. We sampled the testing data only from the year 2018 to provide you a training dataset that has the complete data spanning the year 2017. However, the speed information is sometimes missing due to device malfunction.
 
